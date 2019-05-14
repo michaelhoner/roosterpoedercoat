@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/roosterpoedercoat/precache-manifest.5f986b7c6382b7f556af9a3327b650b1.js"
+  "/roosterpoedercoat/precache-manifest.c3f3a9b7918c94a5be92b5dbeed9b1cf.js"
 );
 
 self.addEventListener('message', (event) => {

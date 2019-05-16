@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/roosterpoedercoat/static/css/main.2cce8147.chunk.css",
-    "main.js": "/roosterpoedercoat/static/js/main.a3f5529c.chunk.js",
-    "main.js.map": "/roosterpoedercoat/static/js/main.a3f5529c.chunk.js.map",
+    "main.js": "/roosterpoedercoat/static/js/main.b042efc2.chunk.js",
+    "main.js.map": "/roosterpoedercoat/static/js/main.b042efc2.chunk.js.map",
     "runtime~main.js": "/roosterpoedercoat/static/js/runtime~main.0da09e6b.js",
     "runtime~main.js.map": "/roosterpoedercoat/static/js/runtime~main.0da09e6b.js.map",
-    "static/js/2.d6a7a6d1.chunk.js": "/roosterpoedercoat/static/js/2.d6a7a6d1.chunk.js",
-    "static/js/2.d6a7a6d1.chunk.js.map": "/roosterpoedercoat/static/js/2.d6a7a6d1.chunk.js.map",
+    "static/js/2.0aa1b5ee.chunk.js": "/roosterpoedercoat/static/js/2.0aa1b5ee.chunk.js",
+    "static/js/2.0aa1b5ee.chunk.js.map": "/roosterpoedercoat/static/js/2.0aa1b5ee.chunk.js.map",
     "index.html": "/roosterpoedercoat/index.html",
-    "precache-manifest.854665082da9b5a6bb519365f6700615.js": "/roosterpoedercoat/precache-manifest.854665082da9b5a6bb519365f6700615.js",
+    "precache-manifest.c6222e53c0413993145b1d634efbed1c.js": "/roosterpoedercoat/precache-manifest.c6222e53c0413993145b1d634efbed1c.js",
     "service-worker.js": "/roosterpoedercoat/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/roosterpoedercoat/static/css/main.2cce8147.chunk.css.map"
   }
